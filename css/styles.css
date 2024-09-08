@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.bg-dark-custom {
+    background-color: #343a40;
+}
+.bg-gradient-custom {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+.col img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.container h2{
+    color: rgb(0, 238, 255);
+    margin-bottom: 30px;
+}
+
+.card img{
+    width:auto ;
+    height:300px ;
+}
+
+.card-body{
+    color: rgb(138, 140, 247);
+}
+
+.carousel-inner img{
+    width: 150px;
+    height: 150px;
+}
+
+.carousel-inner p{
+    color: rgb(255, 255, 255);
+    margin-block-end: 5%;
+}
+
+.container input{
+    border-color: rgb(235, 16, 216);
+    border-radius: 20px;
+}
